@@ -1,0 +1,8 @@
+# Ignore system-created files
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+.env
+logs
+/local_notes
